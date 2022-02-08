@@ -1,5 +1,5 @@
 function passionFruits() {
-    return '4 ripe passion fruits (they should have a crinkly appearance), halved';
+    return '3 ripe passion fruits (they should have a crinkly appearance), halved';
 }
 
 function vanillaVodka() {
