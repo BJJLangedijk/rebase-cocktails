@@ -7,7 +7,7 @@ function vanillaVodka() {
 }
 
 function passoa() {
-    return '30ml Passoa';
+    return '35ml Passoa';
 }
 
 function limeJuice() {
