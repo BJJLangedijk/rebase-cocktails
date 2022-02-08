@@ -15,7 +15,7 @@ function limeJuice() {
 }
 
 function sugarSyrup() {
-    return '1 tbsp sugar syrup';
+    return '0.8 tbsp sugar syrup';
 }
 
 function toServe() {
