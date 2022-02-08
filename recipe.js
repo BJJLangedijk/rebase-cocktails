@@ -1,21 +1,21 @@
 function passionFruits() {
-    return '2 ripe passion fruits (they should have a crinkly appearance), halved';
+    return '4 ripe passion fruits (they should have a crinkly appearance), halved';
 }
 
 function vanillaVodka() {
-    return '60ml vanilla vodka';
+    return '120ml vanilla vodka';
 }
 
 function passoa() {
-    return '30ml Passoa';
+    return '60ml Passoa';
 }
 
 function limeJuice() {
-    return '1 tbsp lime juice';
+    return '2 tbsp lime juice';
 }
 
 function sugarSyrup() {
-    return '1 tbsp sugar syrup';
+    return '2 tbsp sugar syrup';
 }
 
 function toServe() {
