@@ -3,7 +3,7 @@ function passionFruits() {
 }
 
 function vanillaVodka() {
-    return '60ml vanilla vodka';
+    return '65ml vanilla vodka';
 }
 
 function passoa() {
