@@ -11,7 +11,7 @@ function passoa() {
 }
 
 function limeJuice() {
-    return '1 tbsp lime juice';
+    return '1.2 tbsp lime juice';
 }
 
 function sugarSyrup() {
